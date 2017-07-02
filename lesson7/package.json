@@ -1,0 +1,15 @@
+{
+  "name": "lesson7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha-phantomjs vendor/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0",
+    "mocha-phantomjs": "^4.1.0"
+  }
+}
